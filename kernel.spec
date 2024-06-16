@@ -160,6 +160,7 @@ Summary: The Linux kernel
 #  the --with-release option overrides this setting.)
 %define debugbuildsenabled 1
 # define buildid .local
+%define buildid .thinkbook13x
 %define specrpmversion 6.9.6
 %define specversion 6.9.6
 %define patchversion 6.9
